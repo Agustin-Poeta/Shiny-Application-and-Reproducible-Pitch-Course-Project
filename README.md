@@ -37,7 +37,7 @@ Using Shiny UI Server Application. Using Leaflet interactive MAP application. Ad
 
 Shiny Application Link: https://apoeta.shinyapps.io/ShinyApp/
 Github Repository Link: https://github.com/Agustin-Poeta/Shiny-Application-and-Reproducible-Pitch-Course-Project
-Presentation Rpub Link: 
+Presentation Rpub Link: https://rpubs.com/Apoeta/698498
 
 # The Data
 Motor Trend Car Road Tests (mtcars)
